@@ -166,7 +166,7 @@ body {
   line-height: 80px;
   text-align: center;
   border-radius: 5px;
-  background: #fff;
+  background: rgb(41, 40, 40);
 }
 
 .result-box {
@@ -206,7 +206,7 @@ body {
   font-weight: 500;
   padding: 8px 20px;
   border: none;
-  background: aquamarine;
+  background: #56baed;
   border-radius: 5px;
   color: #fff;
   outline: none;
